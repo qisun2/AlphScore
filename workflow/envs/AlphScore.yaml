@@ -25,7 +25,7 @@ dependencies:
   - libgomp
   - networkx
   - numpy
-  - pandas
+  - pandas=1.5
   - snakemake=6
   - tabulate=0.8.10
   - biopandas
