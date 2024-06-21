@@ -3,3 +3,4 @@ channels:
   - salilab
 dependencies:
   - dssp
+  - boost-cpp=1.73.0
